@@ -1,5 +1,5 @@
 # Playground
 A playground where you can learn and experiment with git.
 
-# Location
+# Repository
 [Playground](https://github.com/Tino-FRC-2473/Playground)
